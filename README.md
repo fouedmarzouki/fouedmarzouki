@@ -11,10 +11,10 @@
 
 ## 👨‍💻 About Me  
 - 🎓 **Embedded Systems Engineer**  
-- 🐧 Passionné par **Linux, Yocto et systèmes embarqués**  
-- 🔧 Expérience avec **STM32, Docker, Git, et CI/CD**  
-- 🌍 Langues : **Français, Anglais, Arabe**  
-- 💡 Objectif : construire des systèmes fiables et contribuer à l’open-source  
+- 🐧 Passionate about **Linux, Yocto, and Embedded Systems**  
+- 🔧 Experience with **STM32, Docker, Git, and CI/CD**  
+- 🌍 Languages: **French, English, Arabic**  
+- 💡 Goal: build reliable systems and contribute to open-source  
 
 ---
 
@@ -43,5 +43,5 @@ public:
     string passion = "Linux & Open Source";
     vector<string> languages = {"C", "C++", "Python", "Bash"};
     vector<string> tools = {"Yocto", "STM32", "Docker", "Git", "VSCode", "Neovim"};
-    vector<string> spokenLanguages = {"Français", "Anglais", "Arabe"};
+    vector<string> spokenLanguages = {"French", "English", "Arabic"};
 };
