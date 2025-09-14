@@ -9,39 +9,39 @@
 
 ---
 
-<h2 align="left">🛠️ Technologies and Tools I use:</h2>
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> 
-  </a>
-  <a href="https://www.yoctoproject.org/" target="_blank"> 
-    <img src="https://www.yoctoproject.org/wp-content/uploads/yocto-project-logo-1.png" alt="Yocto" width="40" height="40"/> 
-  </a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/STM_logo.png" alt="STM32" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
-  </a>
-  <a href="https://neovim.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Neovim" width="40" height="40"/> 
-  </a>
-  <a href="https://www.kernel.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a>
-</p>
+## 👨‍💻 About Me  
+- 🎓 **Embedded Systems Engineer**  
+- 🐧 Passionné par **Linux, Yocto et systèmes embarqués**  
+- 🔧 Expérience avec **STM32, Docker, Git, et CI/CD**  
+- 🌍 Langues : **Français, Anglais, Arabe**  
+- 💡 Objectif : construire des systèmes fiables et contribuer à l’open-source  
+
+---
+
+## 🚀 Tech Stack  
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Yocto](https://img.shields.io/badge/Yocto%20Project-000000?style=flat&logo=yocto&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-grey?style=flat&logo=linux&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+```cpp
+// Tools and technologies I use
+
+class AboutMe {
+public:
+    string name = "Foued Marzouki";
+    string role = "Embedded Systems Engineer";
+    string passion = "Linux & Open Source";
+    vector<string> languages = {"C", "C++", "Python", "Bash"};
+    vector<string> tools = {"Yocto", "STM32", "Docker", "Git", "VSCode", "Neovim"};
+    vector<string> spokenLanguages = {"Français", "Anglais", "Arabe"};
+};
