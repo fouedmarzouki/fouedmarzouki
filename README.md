@@ -9,6 +9,25 @@
 
 ---
 
+## 📫 Find Me On  
+
+<div align="center">
+  <a href="mailto:marzouki.foued.eng@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/foued-marzouki-2231b5379/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/fouedmarzouki" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://t.me/fouedmarzouki" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%230096DD.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+---
+
 ## 👨‍💻 About Me  
 - 🎓 **Embedded Systems Engineer**  
 - 🐧 Passionate about **Linux, Yocto, and Embedded Systems**  
